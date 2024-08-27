@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ellewright
 - 👀 I’m interested in music, cats, and video games!
-- 🌱 I’m currently learning Software Development Fundamentals through CourseCareers
+- 🌱 I’m currently learning Frontend Software Development through CourseCareers
 - 💞️ I’m looking to collaborate on literally anything!
 - 📫 Email me anytime: elliewright055@gmail.com
 - 😄 Pronouns: she/her
