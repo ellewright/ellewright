@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ellewright
 - 👀 I’m interested in music, cats, and video games!
-- 🌱 I’m currently learning Frontend Software Development through CourseCareers
-- 💞️ I’m looking to collaborate on literally anything!
+- 🌱 I’m currently learning Frontend Software Development through CourseCareers.
+- 💞️ I’m looking to collaborate with other students.
 - 📫 Email me anytime: elliewright055@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am left-handed!
