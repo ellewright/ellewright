@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👯 I’m looking to collaborate on [Headband](https://github.com/ellewright/headband)
-
 - 👨‍💻 All of my projects are available at [https://www.elliewrightdev.com/](https://www.elliewrightdev.com/)
 
 - 📝 I regularly write articles on [https://www.elliewrightdev.com/blog](https://www.elliewrightdev.com/blog)
