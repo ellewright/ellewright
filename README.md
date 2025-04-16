@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.elliewrightdev.com/](https://www.elliewrightdev.com/)
 
+<!--
 - 📝 I regularly write articles on [https://www.elliewrightdev.com/blog](https://www.elliewrightdev.com/blog)
+-->
 
 - 💬 Ask me about **React, NodeJS, or Java/Spring**
 
