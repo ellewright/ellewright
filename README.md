@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellewright" alt="ellewright" /></a> </p>
 
-- 🔭 I’m currently working on [KnowNative](https://github.com/AbigailDawson/knownative)
+- 🔭 I’m currently working on [KnowNative](https://github.com/AbigailDawson/knownative).
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **automation with Python.**
 
 <!--
 - 👨‍💻 All of my projects are available at [https://www.elliewrightdev.com/](https://www.elliewrightdev.com/)
@@ -17,7 +17,7 @@
 - 📝 I regularly write articles on [https://www.elliewrightdev.com/blog](https://www.elliewrightdev.com/blog)
 -->
 
-- 💬 Ask me about **React, NodeJS, or Java/Spring**
+- 💬 Ask me about **React, NodeJS, Java/Spring, or Python!**
 
 <!--
 - 📫 How to reach me: **ellie@elliewrightdev.com**
