@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellewright" alt="ellewright" /></a> </p>
 
+<!--
 - 🔭 I’m currently working on [KnowNative](https://github.com/AbigailDawson/knownative).
+-->
 
+<!--
 - 🌱 I’m currently learning **automation with Python.**
+-->
 
 <!--
 - 👨‍💻 All of my projects are available at [https://www.elliewrightdev.com/](https://www.elliewrightdev.com/)
